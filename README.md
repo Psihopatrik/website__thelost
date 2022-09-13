@@ -2,9 +2,9 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Это заголовок тайтл</title>
+		<title>Patrikus project</title>
 	</head>
 	<body>
-		Это основное содержимое страницы.
+		Setup my body bone
 	</body>
 </html>
